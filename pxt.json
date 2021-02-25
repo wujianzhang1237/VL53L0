@@ -1,0 +1,19 @@
+{
+    "name": "VL53L0",
+    "version": "0.1.1",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "_locales/zh-cn/VL53L0-strings.json",
+        "_locales/zh-tw/VL53L0-strings.json",
+        "test.ts",
+        "tsconfig.json",
+        "vl53l0.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}

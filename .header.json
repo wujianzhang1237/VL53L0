@@ -1,0 +1,20 @@
+{
+    "target": "microbit",
+    "targetVersion": "3.1.47",
+    "name": "VL53L0",
+    "meta": {},
+    "editor": "tsprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "_rev": null,
+    "id": "f320b68b-fc90-4123-8c2e-0cf22d3f6b9d",
+    "recentUse": 1610183564,
+    "modificationTime": 1610183556,
+    "blobId": null,
+    "blobVersion": null,
+    "blobCurrent": false,
+    "isDeleted": false,
+    "path": "Laser_Ranging_Sensor",
+    "githubCurrent": false,
+    "saveId": null
+}

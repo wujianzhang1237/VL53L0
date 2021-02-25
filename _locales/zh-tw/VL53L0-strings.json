@@ -1,0 +1,13 @@
+{
+	"VL53L0|block": "鐳射測距模塊",
+	"{id:category}VL53L0": "鐳射測距模塊",
+    "MODE.Single|block": "單獨",
+    "MODE.Continuous|block": "連續",
+    "PRECISION.High|block": "高精度",
+    "PRECISION.Low|block": "低精度",
+    "VL53L0.Initializesensor|block":"初始化感測器",
+    "VL53L0.setMode|block":"配寘為|%mode|模式|精度為|%precisionState",
+    "VL53L0.start|block":"開始測距",
+    "VL53L0.stop|block":"停止測距",
+    "VL53L0.getDistance|block":"讀取距離(mm)"
+}

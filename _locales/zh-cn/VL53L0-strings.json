@@ -1,0 +1,13 @@
+{
+	"VL53L0|block": "激光测距模块",
+	"{id:category}VL53L0": "激光测距模块",
+    "MODE.Single|block": "单独",
+    "MODE.Continuous|block": "连续",
+    "PRECISION.High|block": "高精度",
+    "PRECISION.Low|block": "低精度",
+    "VL53L0.Initializesensor|block":"初始化传感器",
+    "VL53L0.setMode|block":"配置为|%mode|模式|精度为|%precisionState",
+    "VL53L0.start|block":"开始测距",
+    "VL53L0.stop|block":"停止测距",
+    "VL53L0.getDistance|block":"读取距离(mm)"
+}
